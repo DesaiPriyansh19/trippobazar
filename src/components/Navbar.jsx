@@ -8,7 +8,7 @@ const Navbar = () => {
   const [isSearchVisible, setIsSearchVisible] = useState(false);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-
+// ksfj
   const toggleSearch = () => {
     setIsSearchVisible((prev) => !prev);
   };
